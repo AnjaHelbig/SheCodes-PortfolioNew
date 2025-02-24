@@ -79,6 +79,8 @@ footer {
   background-color: #f5f5f5;
   padding-top: 10px;
   padding-bottom: 10px;
+  border-top: solid 5px;
+  border-color: #091a36;
 }
 
 .git-hub-icon {
